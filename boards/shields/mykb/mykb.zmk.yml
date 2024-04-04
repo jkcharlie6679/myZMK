@@ -3,6 +3,6 @@ id: mykb
 name: mykb
 type: shield
 url: https://github.com/jkcharlie6679/myZMK/
-requires: [nice_nano_v2]
+requires: [nice60]
 features:
   - keys
